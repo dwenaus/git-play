@@ -7,3 +7,5 @@ meanwhile there are some changes in master branch
 
 some changes in feature one branch
 
+then more changes are made to the feature one branch
+
