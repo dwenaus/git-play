@@ -2,3 +2,4 @@ feature change A
 feature change B
 feature change C squash
 feature change D squash
+feature change E pick
